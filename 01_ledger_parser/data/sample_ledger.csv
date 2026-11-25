@@ -1,0 +1,12 @@
+tx_id,date,category,amount,description
+TX001,2026-01-15,  Cloud Infra ,1250.50,AWS EC2 monthly bill
+TX002,2026-01-16,software,49.99,PyCharm license
+TX003,2026-02-30,Travel,320.00,Invalid calendar date
+TX004,2026-01-17,CLOUD INFRA,,Missing amount
+TX005,2026-01-18,Travel,-150.00,Negative refund entry
+TX001,2026-01-19,Software,49.99,Duplicate transaction ID
+TX006,2026-01-20,Hardware,14500.00,GPU workstation purchase
+TX007,not-a-date,Meals,85.25,Team lunch
+TX008,2026-01-21,   ,200.00,Blank category
+TX009,2026-01-22,software,abc,Non-numeric amount
+TX010,2026-01-23,Cloud Infra,2750.25,Database cluster
